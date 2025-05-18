@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "api de estoque de jogos classicos de PS2 desenvolvida com Nodejs e MySQL",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./src/server.js"
